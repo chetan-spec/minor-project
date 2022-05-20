@@ -1,10 +1,10 @@
 
 
-2. cd instagram-clone
+1. cd instagram-clone
 
-3. npm install
+2. npm install
 
-4. npm start
+3. npm start
 
 ```
 
